@@ -15,11 +15,11 @@ the circuit regulates the voltage, the display shows the output, and the battery
 
 ### Complete Circuit Design
 <img src="Screenshot%202026-06-09%20071548.png" alt="Complete Power Supply Circuit Design" width="700">
-
-### PCB Layout
-<img src="Screenshot%202026-06-09%20071541.png" alt="Power Supply PCB Layout" width="700">
-
 ### PCB Routing
+
+<img src="Screenshot%202026-06-09%20071548.png" alt="Complete Power Supply Circuit Design" width="700">
+### PCB Layout
+
 <img src="Screenshot%202026-06-09%20071600.png" alt="Power Supply PCB Routing" width="700">
 
 ---
